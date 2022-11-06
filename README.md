@@ -1,0 +1,1 @@
+# Digit-regonition-on-SNN---extra-project
